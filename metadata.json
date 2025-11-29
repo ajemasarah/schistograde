@@ -1,0 +1,8 @@
+{
+  "name": "Schisto-Care Assistant",
+  "description": "A helpful chatbot and voice assistant providing information and guidance on schistosomiasis detection and prevention, powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
